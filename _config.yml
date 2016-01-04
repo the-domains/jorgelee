@@ -1,0 +1,14 @@
+layout_spectrum: 0.8853046
+typography_spectrum: 0.6308244
+color:
+  saturation: 0.5448028
+  lightness: 0.9444444
+  brandStrength: 0.5489118
+  brandColors:
+    - '#0E0C16'
+    - '#FDFDFD'
+    - '#5C1E17'
+    - '#C7906E'
+    - '#993A1E'
+  rhythmicContrast: 0.5824373
+name: jorgelee
